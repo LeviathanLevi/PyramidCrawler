@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus.unity
+    guid: 69e3d796f9e13834597a9be68b2a4c43
+  - enabled: 0
+    path: Assets/Scenes/Game.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Easy8x8Level.unity
+    guid: 9c64a9c92383e2b42bce2509f32255ab
+  - enabled: 1
+    path: Assets/Scenes/Easy6x6Level.unity
+    guid: baf6344c72ed56b4ba420b9d5452046d
+  - enabled: 1
+    path: Assets/Scenes/Easy4x4Level.unity
+    guid: 6b686963fcf315d4c9b26f55509ad710
+  - enabled: 1
+    path: Assets/Scenes/Reward Select.unity
+    guid: e23a5e8ee5503244ab79f40d27f9de7b
+  - enabled: 1
+    path: Assets/Scenes/Hard12x12Level.unity
+    guid: c0e51d2f5d31cb246874cd238ea528ce
+  - enabled: 1
+    path: Assets/Scenes/Hard10x10Level.unity
+    guid: 6ebf9d19380ae2f4996ee49e5258c163
+  - enabled: 1
+    path: Assets/Scenes/Hard8x8Level.unity
+    guid: 4de5ee3c917b03041900a5ec49d58470
+  - enabled: 1
+    path: Assets/Scenes/Hard6x6Level.unity
+    guid: 9962382cd9333ba438bfc6ff95e8657f
+  m_configObjects: {}
